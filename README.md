@@ -28,3 +28,5 @@ Applying this model to early 2024 MLB data yields the following mathematical val
 * **2-2:** -0.049 runs
 * **1-2:** -0.086 runs
 * **0-2:** -0.107 runs
+### Transition Probability Heatmap
+![Markov Transition Heatmap](markov_heatmap.png)
