@@ -30,3 +30,6 @@ Applying this model to early 2024 MLB data yields the following mathematical val
 * **0-2:** -0.107 runs
 ### Transition Probability Heatmap
 ![Markov Transition Heatmap](markov_heatmap.png)
+### 24-State Run Expectancy (RE24) Matrix - Full 2024 Season
+By expanding the state space to account for all base-runner and out combinations, we can model the exact transition probabilities of an entire inning.
+![24-State RE24 Heatmap](re24_full_season_heatmap.png)
