@@ -33,3 +33,10 @@ Applying this model to early 2024 MLB data yields the following mathematical val
 ### 24-State Run Expectancy (RE24) Matrix - Full 2024 Season
 By expanding the state space to account for all base-runner and out combinations, we can model the exact transition probabilities of an entire inning.
 ![24-State RE24 Heatmap](re24_full_season_heatmap.png)
+
+## Grand Unified Quantitative Engine (Statcast 2024)
+This final module integrates Information Theory, Bayesian Inference, and Actuarial Science into a single analytical pipeline.
+* **Module 1 (Physics):** Shannon Entropy calculates the cryptographic chaos (unpredictability) of a pitcher's arsenal.
+* **Module 2 (Statistics):** Bayesian Beta-Binomial updating strips away variance to find a pitcher's "True Talent" strikeout rate.
+* **Module 3 (Actuarial):** Kaplan-Meier Survival Analysis models the hazard rate of an inning "blowing up" based on pitch count.
+![Quantitative Dashboard](quantitative_dashboard.png)
